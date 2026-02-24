@@ -1,4 +1,4 @@
-# Hi there, I'm [Dein Name] 👋
+# Hi there, I'm Patrick Martin 👋
 
 ### 🎓 Education & Career
 - **Dual Student** @ Airbus Defence and Space
