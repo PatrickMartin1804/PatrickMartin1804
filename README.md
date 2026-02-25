@@ -8,7 +8,7 @@
 ### 🛠️ Tech Stack & Skills
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, SQL, C++, Visual Basics, Java, HTML, CSS, Javascript, Typescript|
+| **Languages** | Python, SQL, C++, Visual Basic, Java, HTML, CSS, Javascript, Typescript|
 | **AI / Data Science** | PyTorch, Pandas, Scikit-learn, NumPy |
 | **Computer Vision** | OpenCV, YOLO, Image Segmentation |
 | **Tools** | Git, Docker, Jupyter Notebooks |
